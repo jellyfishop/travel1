@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+body{
+
+    background-image: url("./images/413822_adapted_landscape_2400x2400\ \(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 5;
+    
+}
+#icon
+{
+    color: white;
+    padding-left: 70px;
+    padding-top:30px;
+    margin-top:20px ;
+    width: 40px;
+    height: 40px;
+    
+
+    
+}
+#h3{
+    width: 461px;
+    height: 31px;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 25px;
+    background-color: white;
+    opacity: 0.8;
+    
+}
+p{
+    color: white;
+    float: right;
+    margin-top: -83px;
+    margin-right: 984px;
+}
+.fill{
+    height: 300px;
+    width: 300px;
+    color: white;
+opacity: 0.5;
+margin-left: 63px;
+margin-top: 70px;
+}
+#gg{    border-radius: 25px;
+    
+
+}
+button{
+    color:black;
+    background-color:white;
+}
+h2
+{font-family: 'Zen Dots', cursive;
+    color: rgb(247, 244, 237);
+    text-align: center;
+    font-size: xx-large;
+    margin-top: -131px;
+}h3
+{
+    text-decoration: underline none;
+    color: white;
+    margin-top: 5px;
+margin-top: 30px;
+    
+    
+    
+}
+#ff{
+    background-color: black;
+    color: white;
+    width: 1536px;
+    height: 100px;
+    margin-left: -8px;
+    margin-top: 194px;
+    opacity: 0.5;
+}
+.kk{
+    text-align: center;
+    color: white;
+}#ll{
+    margin-top: 5px;
+    
+}
+
+.highlight-word-color{
+    color: rgb(255, 231, 16);
+
+}
